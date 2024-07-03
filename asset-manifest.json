@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ColorShower/static/css/main.ff02f4b5.css",
+    "main.js": "/ColorShower/static/js/main.6d9e5d1e.js",
+    "index.html": "/ColorShower/index.html",
+    "main.ff02f4b5.css.map": "/ColorShower/static/css/main.ff02f4b5.css.map",
+    "main.6d9e5d1e.js.map": "/ColorShower/static/js/main.6d9e5d1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.6d9e5d1e.js"
+  ]
+}
